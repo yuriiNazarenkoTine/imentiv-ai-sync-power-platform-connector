@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Connector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <connectorid>eb70ed75-da90-4b0e-99ea-3a2508aa8ef9</connectorid>
+  <description>Imentiv API - Understand the emotions in your images with Imentiv AI.
+Discover the emotional makeup of your image with our advanced AI</description>
+  <displayname>ImentivAI</displayname>
+  <iconbrandcolor>#007ee5</iconbrandcolor>
+  <name>la_imentivai</name>
+  <connectortype>1</connectortype>
+  <openapidefinition>/Connector/la_imentivai_openapidefinition.json</openapidefinition>
+  <connectionparameters>/Connector/la_imentivai_connectionparameters.json</connectionparameters>
+  <policytemplateinstances>/Connector/la_imentivai_policytemplateinstances.json</policytemplateinstances>
+  <iconblob>/Connector/la_imentivai_iconblob.Png</iconblob>
+</Connector>

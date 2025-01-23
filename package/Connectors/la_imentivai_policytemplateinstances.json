@@ -1,0 +1,1 @@
+[{"templateId":"setheader","title":"Set Content-Encoding","parameters":{"x-ms-apimTemplateParameter.name":"Content-Encoding","x-ms-apimTemplateParameter.value":"application/json","x-ms-apimTemplateParameter.existsAction":"override","x-ms-apimTemplate-policySection":"Request"}}]
